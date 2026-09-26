@@ -1,5 +1,14 @@
 # 💫 About Me:
-17-year-old AI & Tech Developer. Building complete web experiences from frontend to backend. Turning ideas into working products. 🚀
+I’m a *17-year-old self-taught Full-Stack Developer & Freelancer from Howly, Assam, India*, driven by curiosity, creativity, and the desire to turn ideas into real digital experiences.
+
+I build *modern websites, Android applications, and Android games* for clients around the world, combining clean design with powerful, reliable technology. My toolkit includes *React, Node.js, Kotlin, Java, and Python*, along with a growing expertise in AI and modern web development.
+
+I care about more than just making things work — I focus on *beautiful interfaces, smooth performance, thoughtful user experiences, and production-ready solutions*.
+
+Every project is a new challenge. Every challenge is an opportunity to learn, build, and become better.
+
+*I don’t just write code. I turn ideas into products.*
+
 
 
 ## 🌐 Socials:
